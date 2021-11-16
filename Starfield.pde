@@ -51,7 +51,7 @@ void setup()
 }
 void draw()
 {
-  clear();
+  background(0);
   slow.show();
   slow.walk();
   slow.jump();
