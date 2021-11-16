@@ -66,7 +66,6 @@ class oddBallParticle extends Particle{
     myX = (int)(Math.random()*100)+200;
     myX = (int)(Math.random()*10)+200; 
     myOpacity = (int)(Math.random()*10);
-    //rect((float)myX,(float)myY,50.0,50.0);
 }
 }
 
